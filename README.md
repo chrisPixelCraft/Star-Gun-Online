@@ -39,13 +39,21 @@ Star-Gun-Online was developed through a combination of C++ programming and Bluep
 - **Dynamic AI**: AI opponents with random spawning and attack patterns to keep the gameplay challenging.
 - **Seamless Integration**: Combining C++ and Blueprint for an efficient and effective development process.
 
+## Running the Game
+
+To execute the game, navigate to the following directory and open `Shooter.exe`:
+
+```shell
+/star_gun_online/Shooter.exe
+```
+
 ## Demo Video
 
 Watch a demo of the game [here](https://www.canva.com/design/DAFWgseU8xU/HE1FL2qR3zkSDqo9uHsaYA/watch?utm_content=DAFWgseU8xU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Credits
 
-- **Developer**: 謝銘倫 林昀萱 劉育成
+- **Developer**: Chris Hsieh, Michelle Lin, Yu-Cheng Liu
 - **Engine**: Unreal Engine 5
 - **Programming Languages**: C++ and Blueprint
 
